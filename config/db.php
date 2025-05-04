@@ -2,8 +2,8 @@
 
 $servername = 'localhost';
 $username = 'root';
-$password = 'password';
-$dbname = 'cotizaciones_pedidos';
+$password = '1073676799';
+$dbname = 'mydelights';
 
 
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -13,3 +13,4 @@ if ($conn->connect_error) {
 }
 
 ?>
+    
